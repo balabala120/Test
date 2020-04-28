@@ -54,13 +54,31 @@ void CMy0428MFCwindllView::OnDraw(CDC* pDC)
 		return;
 
 	// TODO: 在此处为本机数据添加绘制代码
-	CString s;
-	s= pchar();
-	pDC->TextOutW(200,200,s);
+	CString s1;
+	s1= pchar();
+	pDC->TextOutW(200,200,s1);
 
-	CString ss;
-	ss.Format(_T("动态库返回的值是 %d"),GetInt());
-	pDC->TextOutW(200, 230, ss);
+	CString s2;
+	s2.Format(_T("动态库返回的值是 %d"),GetInt());
+	pDC->TextOutW(200, 220, s2);
+
+	int a = 2000, b = 20;
+	CString s3;
+	s3.Format(_T("静态库的函数使用：a = %d ,b = %d,a+b = %d"), a,b,Add(a,b));
+	pDC->TextOutW(200, 240, s3);
+
+	F1 ff(b);
+	CString s4;
+	s4.Format(_T("静态库的类的函数GetA： %d"), ff.GetA());
+	pDC->TextOutW(200, 260, s4);
+
+	CWin32Dll  xixi;
+	int c = 5;
+	CString s5;
+	s5.Format(_T("动态库的类的函数使用：%d的累加和是%d"),c, xixi.Sum(c));
+	pDC->TextOutW(200, 280, s5);
+
+
 }
 
 

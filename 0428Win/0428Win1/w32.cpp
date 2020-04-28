@@ -5,6 +5,12 @@ char* pchar()
 {
 	return "¹ş¹ş¹ş¹ş¹ş¹ş¹ş  ¾²Ì¬¿âÀ´µÄ×Ö·û´®£¡";
 }
+
+int Add(int a, int b)
+{
+	return a + b;
+}
+
 int F1::GetA() {
-	return a + 1;
+	return a ;
 }

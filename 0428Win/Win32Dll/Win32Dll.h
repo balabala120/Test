@@ -10,10 +10,12 @@
 #define WIN32DLL_API __declspec(dllimport)
 #endif
 
+
 // 此类是从 Win32Dll.dll 导出的
 class WIN32DLL_API CWin32Dll {
 public:
 	CWin32Dll(void);
+	int Sum(int a);
 	// TODO:  在此添加您的方法。
 };
 

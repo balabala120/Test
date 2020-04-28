@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Win32Dll.cpp
+    正在创建库 C:\GitHub_test\test2\0428Win\Debug\Win32Dll.lib 和对象 C:\GitHub_test\test2\0428Win\Debug\Win32Dll.exp
+  Win32Dll.vcxproj -> C:\GitHub_test\test2\0428Win\Debug\Win32Dll.dll
+  Win32Dll.vcxproj -> C:\GitHub_test\test2\0428Win\Debug\Win32Dll.pdb (Full PDB)

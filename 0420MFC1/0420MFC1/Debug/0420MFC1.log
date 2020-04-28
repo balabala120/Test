@@ -1,0 +1,17 @@
+﻿  0420MFC1Dlg.cpp
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(173): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(174): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(185): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(186): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(198): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(210): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(225): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(226): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(230): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(241): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(242): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\github_test\test2\0420mfc1\0420mfc1\0420mfc1dlg.cpp(247): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  0420MFC1.vcxproj -> C:\GitHub_test\test2\0420MFC1\Debug\0420MFC1.exe
+  0420MFC1.vcxproj -> C:\GitHub_test\test2\0420MFC1\Debug\0420MFC1.pdb (Partial PDB)

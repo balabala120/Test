@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Win32Dll.cpp
+c:\github_test\test2\0504mfc\win32dll\win32dll.cpp(32): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 C:\GitHub_test\test2\0504MFC\Debug\Win32Dll.lib 和对象 C:\GitHub_test\test2\0504MFC\Debug\Win32Dll.exp
+  Win32Dll.vcxproj -> C:\GitHub_test\test2\0504MFC\Debug\Win32Dll.dll
+  Win32Dll.vcxproj -> C:\GitHub_test\test2\0504MFC\Debug\Win32Dll.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  lib1.cpp
+c:\github_test\test2\0504mfc\win32lib1\lib1.cpp(14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  Win32lib1.vcxproj -> C:\GitHub_test\test2\0504MFC\Debug\Win32lib1.lib
